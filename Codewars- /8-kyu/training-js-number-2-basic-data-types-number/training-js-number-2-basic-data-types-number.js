@@ -23,15 +23,3 @@ function equal3(){
       b = v1 ; //set number value to b
   return a * b;
 }
-​
-function equal4(){
-  let a = v4 , //set number value to a
-      b =  v5; //set number value to b
-  return a / b;
-}
-​
-function equal5(){
-  let a = v2, //set number value to a
-      b = v6 ; //set number value to b
-  return a % b;
-}
