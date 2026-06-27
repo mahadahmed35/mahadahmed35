@@ -7,3 +7,6 @@ function repeatStr (n, s) {
 function repeatStr (n, s) {
   return s.repeat(n);
 }
+function repeatStr (n, s) {
+  return s.repeat(n);
+}
