@@ -1,0 +1,25 @@
+function howManydays(month){
+  let days;
+  switch (month){
+      case 1:
+      days= 31;
+      break;
+      case 2:
+      days= 28;
+      break;
+      case 3:
+      days= 31;
+      break;
+      case 4:
+      days= 30;
+      break;
+      case 5:
+      days= 31;
+      break;
+      case 6:
+      days= 30;
+      break;
+      case 7:
+      days= 31;
+      break;
+      case 8:
