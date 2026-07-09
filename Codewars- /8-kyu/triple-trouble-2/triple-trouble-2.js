@@ -1,8 +1,9 @@
 function tripleTrouble(one, two, three){
   //Solution
-  let result = "";
-  for (let i =0; i < one.length; i++) {
-    result += one[i] + two[i]+ three[i];
+  let x='';
+  for( let i=0; i<one.length; i++) {
+    x +=one[i] + two[i] + three[i];
   }
-  return result;
-  }
+  return x;
+ }
+console.log(tripleTrouble("aa", "bb", "cc",));
